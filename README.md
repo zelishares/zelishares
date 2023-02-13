@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @zelishares
-- 👀 I’m interested in Marketing, Tourism and Data Analytics.
+- 👩🏽‍💻 I'm an aspiring Data Scientist with a background in Digital Marketing & Tourism.
+- 👀 My main interests are Entrepreneurship, Sustainability and Data Analytics & Visualization.
 
 <!---
 zelishares/zelishares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
