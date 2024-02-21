@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zelishares
-- 👩🏽‍💻 I'm an aspiring Data Scientist with a background in Digital Marketing & Tourism.
+- 👩🏽‍💻 I'm an applied Data Scientist with a background in Digital Marketing & Tourism.
 - 👀 My main interests are Entrepreneurship, Sustainability and Data Analytics & Visualization.
 
 <!---
